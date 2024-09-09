@@ -42,4 +42,4 @@ Lexica.art：
 - prompts utilizados
 
 
-por Kawan Shigueo(https://github.com/kkawan)
+por (https://github.com/kkawan)
